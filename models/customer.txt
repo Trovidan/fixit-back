@@ -1,0 +1,4 @@
+db.customers.insertMany([
+    {city: 'Kanpur',state: 'Uttar Pradesh', imageUri: '../images/avatar2.png', email: "pranav07092k@gmail.com", reviews:[], requests: [], favorites: [], chats:[], name: "Pranav Mishra", password: "1234567890",  contactNumber: "7017971093"},
+    {city: 'Kanpur',state: 'Uttar Pradesh', imageUri: '../images/avatar2.png', email: "imt2018_068@iiitm.ac.in", reviews:[], requests: [], favorites: [], chats:[], name: "Trovi Mishra", password: "1234567890", contactNumber: "7017971097" }
+])
